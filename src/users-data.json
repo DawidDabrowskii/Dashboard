@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "userName": "Dawid",
+    "email": "dawid@gmail.com",
+    "password": "123",
+    "terms": ["checked"]
+  },
+  {
+    "id": "2",
+    "userName": "Marek",
+    "email": "marek@gmail.com",
+    "password": "123",
+    "terms": ["checked"]
+  },
+  {
+    "id": "3",
+    "userName": "Arek",
+    "email": "arek@gmail.com",
+    "password": "123",
+    "terms": ["checked"]
+  },
+  {
+    "id": "4",
+    "userName": "Krystian",
+    "email": "krystian@gmail.com",
+    "password": "123",
+    "terms": ["checked"]
+  },
+  {
+    "id": "5",
+    "userName": "Bartek",
+    "email": "bartek@gmail.com",
+    "password": "123",
+    "terms": ["checked"]
+  }
+]
